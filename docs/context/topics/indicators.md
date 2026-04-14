@@ -1,6 +1,6 @@
-# Algorithm
+# Indicators
 
-> 1 active fact · See also: [indicators](indicators.md)
+> 1 active fact · See also: [algorithm](algorithm.md)
 
 ## Facts
 

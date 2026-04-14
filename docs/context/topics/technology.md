@@ -1,6 +1,6 @@
-# Architecture
+# Technology
 
-> 1 active fact · See also: [technology](technology.md)
+> 1 active fact · See also: [architecture](architecture.md)
 
 ## Decisions
 

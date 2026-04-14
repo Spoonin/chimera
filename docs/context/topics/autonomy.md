@@ -4,4 +4,4 @@
 
 ## Decisions
 
-- [2026-04-14] Operate 24/7 on a cloud-hosted OpenClaw instance (e.g., Tencent Lighthouse) with zero human intervention *(telegram:@DisterX, high)*
+- [2026-04-14] System operates 24/7 on cloud-hosted OpenClaw on Tencent Lighthouse with zero human intervention required. *(telegram:@DisterX, high)*

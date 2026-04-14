@@ -1,6 +1,6 @@
-# Validation
+# Backtesting
 
-> 1 active fact · See also: [backtesting](backtesting.md)
+> 1 active fact · See also: [validation](validation.md)
 
 ## Decisions
 
